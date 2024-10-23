@@ -4,7 +4,7 @@ int main()
 {
 	ios_base::sync_with_stdio(0);
 	cin.tie(NULL);
-	/*int n;
+	int n;
 	cin>>n;
 	vector<int>v,v1;
 	for(int i=0;i<n;i++)
@@ -222,7 +222,7 @@ int main()
 		}
 		cout<<endl;
 	}
-	*/
+	
 	/// vector of set
 	int p;
 	cin>>p;
@@ -242,7 +242,7 @@ int main()
 	    }
 	    cout<<endl;
 	}
-/*
+
 
 	/// 2d vector and 3d vector
 	/// define 10 x 20 vector
@@ -425,7 +425,6 @@ int main()
 		}
 		cout<<endl;
 	}
-*/
 }
 /*
 3
