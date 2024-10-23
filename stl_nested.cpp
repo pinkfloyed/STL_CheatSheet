@@ -3,7 +3,7 @@ using namespace std;
 typedef long long ll;
 int main()
 {
-	/*map<pair<int,int>,int>m;
+	map<pair<int,int>,int>m;
 	pair<int,int>p1={1,2};
 	pair<int,int>p2={6,7};
 	cout<<(p1>p2)<<endl;
@@ -63,7 +63,7 @@ int main()
 			break;
 		it--;
 	}
-	*/
+	
 
 	map<int,multiset<string>>mp;
 	int n;
