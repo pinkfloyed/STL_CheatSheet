@@ -52,7 +52,7 @@ int main()
 
 
 	///normally pair declaration
-	/*
+	
 	pair<int,string>p;
 	p=make_pair(1,"pinki");
 	cout<<p.first<<" "<<p.second<<endl;
@@ -167,7 +167,6 @@ int main()
 	{
 		cout<<i.first<<" "<<i.second.first<<" "<<i.second.second<<endl;
 	}
-	*/
 
 }
 
