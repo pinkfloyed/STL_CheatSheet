@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
 	/// ordered_map, unordered_map, multimap
-	/*map<int,string>m; /// insert,access 0(logn)
+	map<int,string>m; /// insert,access 0(logn)
 	m[1]="pinki";  /// 0(logn)
 	m[4]="akter";
 	m[10]="cs";
@@ -107,7 +107,7 @@ int main()
 		cin>>st;
 		cout<<ms[st]<<endl;
 	}
-*/
+
 	int y;
 	cin>>y;
 	map<int,int>m,op;
@@ -153,7 +153,7 @@ int main()
 		cout<<i.first<<" "<<i.second.first<<" "<<i.second.second<<endl;
 	}
 
-	unordered_map<string,double>d;
+    unordered_map<string,double>d;
     d["PI"] = 3.14;
     d["root2"] = 1.414;
     d["root3"] = 1.732;
